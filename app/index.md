@@ -12,7 +12,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
 
-[Imagine](song/jan/vanilla-panna-cotta.md)
+[Imagine](song/feb/imagine.md)
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
@@ -22,6 +22,3 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Mr. Brightside](song/jan/mr_brightside.md)
 
-### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
-
-[Imagine](song/feb/imagine.md)
